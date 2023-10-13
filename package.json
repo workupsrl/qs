@@ -10,6 +10,7 @@
     "funding": {
         "url": "https://github.com/sponsors/ljharb"
     },
+    "type": "module",
     "main": "lib/index.js",
     "contributors": [
         {
